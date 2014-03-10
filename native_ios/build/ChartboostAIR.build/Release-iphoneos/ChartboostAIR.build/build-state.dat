@@ -1,0 +1,301 @@
+TChartboostAIR
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-apacvhkjsdcygbbxeiwnmvwvlkbw/ChartboostAIR-Prefix.pch.pch ChartboostAIR/ChartboostAIR-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djbjdfjixddyjaewpuwftjlxcuag/ChartboostAIR-Prefix.pch.pch ChartboostAIR/ChartboostAIR-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djqoawjjelvhhkennqrkrsuwzwfj/ChartboostAIR-Prefix.pch.pch ChartboostAIR/ChartboostAIR-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostWrapper.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostWrapper.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostWrapper.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/libChartboostAIR.a normal arm64
+cLibtool /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/libChartboostAIR.a normal armv7
+cLibtool /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/libChartboostAIR.a normal armv7s
+cCreateUniversalBinary /Users/brianhansen/Documents/SDK/air/native_ios/bin/libChartboostAIR.a normal armv7\ armv7s\ arm64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c0000000052E6EF5E0000000000000110
+t1390866270
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000525DCE4D000000000000036B
+t1381879373
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052E6EF2000000000000001A0
+t1390866208
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052E6EF230000000000A92BC0
+t1390866211
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525DCE8D0000000000000AC9
+t1381879437
+s2761
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost/libChartboost.a
+c000000005302AEC500000000010E624C
+t1392684741
+s17719884
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR-Prefix.pch
+c0000000052D72DB700000000000000B6
+t1389833655
+s182
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m
+c0000000052D72DB70000000000000DA3
+t1389833655
+s3491
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m
+c0000000052D72DB70000000000000F15
+t1389833655
+s3861
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/bin/libChartboostAIR.a
+t2
+s0
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.LinkFileList
+c000000005331C424000000000000012C
+t1395770404
+s300
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.o
+t1395770405
+s15820
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostWrapper.o
+t1395770405
+s70464
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/libChartboostAIR.a
+t1395770405
+s3892240
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.LinkFileList
+c000000005331C424000000000000012C
+t1395770404
+s300
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.o
+t1395770404
+s13228
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostWrapper.o
+t1395770404
+s64592
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/libChartboostAIR.a
+t1395770405
+s3396016
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.LinkFileList
+c000000005331C424000000000000012E
+t1395770404
+s302
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.o
+t1395770404
+s13228
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostWrapper.o
+t1395770404
+s64892
+
+N/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/libChartboostAIR.a
+t1395770405
+s3406256
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-apacvhkjsdcygbbxeiwnmvwvlkbw/ChartboostAIR-Prefix.pch.pch
+t1395707557
+s78752
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djbjdfjixddyjaewpuwftjlxcuag/ChartboostAIR-Prefix.pch.pch
+t1395707557
+s78732
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djqoawjjelvhhkennqrkrsuwzwfj/ChartboostAIR-Prefix.pch.pch
+t1395707557
+s93676
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8b8c3aa4fbe1b841^e4f75ea4fbe1b841^---0#1#1#--18"Check dependencies36"C25B7DE7-EE55-4EFC-9817-6B3887FA261C-
+
+CCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417463204.809597
+e417463205.014315
+r1
+xCompileC
+xbuild/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.o
+x/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/AIR/FlashRuntimeExtensions.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost/Chartboost.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m223"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.o [1mChartboostAIR/ChartboostAIR.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler616ecfa4fbe1b841^58aa03a5fbe1b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m0000000000000000^4367"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.o [1mChartboostAIR/ChartboostAIR.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-generated-files.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-own-target-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-all-target-headers.hmap -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-project-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/bin/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources/arm64 -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources -F/Users/brianhansen/Documents/SDK/air/native_ios/bin -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djqoawjjelvhhkennqrkrsuwzwfj/ChartboostAIR-Prefix.pch -MMD -MT dependencies -MF /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.d --serialize-diagnostics /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.dia -c /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m -o /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.o36"3AEAA8BC-E917-4F3A-AF2A-003F220446A0-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostWrapper.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417463204.808518
+e417463205.073830
+r1
+xCompileC
+xbuild/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostWrapper.o
+x/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost/Chartboost.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/AIR/FlashRuntimeExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m231"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostWrapper.o [1mChartboostAIR/ChartboostWrapper.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6b2acfa4fbe1b841^57e912a5fbe1b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m0000000000000000^4391"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostWrapper.o [1mChartboostAIR/ChartboostWrapper.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-generated-files.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-own-target-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-all-target-headers.hmap -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-project-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/bin/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources/arm64 -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources -F/Users/brianhansen/Documents/SDK/air/native_ios/bin -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djqoawjjelvhhkennqrkrsuwzwfj/ChartboostAIR-Prefix.pch -MMD -MT dependencies -MF /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostWrapper.d --serialize-diagnostics /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostWrapper.dia -c /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m -o /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostWrapper.o36"EF3D2AF1-9AD7-482F-8CF0-EE77E13F5177-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417463204.377164
+e417463204.807851
+r1
+xCompileC
+xbuild/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.o
+x/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/AIR/FlashRuntimeExtensions.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost/Chartboost.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m223"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.o [1mChartboostAIR/ChartboostAIR.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler62f860a4fbe1b841^6ec1cea4fbe1b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m0000000000000000^4367"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.o [1mChartboostAIR/ChartboostAIR.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-generated-files.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-own-target-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-all-target-headers.hmap -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-project-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/bin/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources/armv7 -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources -F/Users/brianhansen/Documents/SDK/air/native_ios/bin -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-apacvhkjsdcygbbxeiwnmvwvlkbw/ChartboostAIR-Prefix.pch -MMD -MT dependencies -MF /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.d --serialize-diagnostics /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.dia -c /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m -o /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.o36"AAA867A3-F877-471C-ABF3-A55D1A8C59B3-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostWrapper.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417463204.377207
+e417463204.833131
+r1
+xCompileC
+xbuild/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostWrapper.o
+x/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost/Chartboost.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/AIR/FlashRuntimeExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m231"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostWrapper.o [1mChartboostAIR/ChartboostWrapper.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilercbf760a4fbe1b841^3160d5a4fbe1b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m0000000000000000^4391"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostWrapper.o [1mChartboostAIR/ChartboostWrapper.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-generated-files.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-own-target-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-all-target-headers.hmap -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-project-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/bin/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources/armv7 -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources -F/Users/brianhansen/Documents/SDK/air/native_ios/bin -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-apacvhkjsdcygbbxeiwnmvwvlkbw/ChartboostAIR-Prefix.pch -MMD -MT dependencies -MF /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostWrapper.d --serialize-diagnostics /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostWrapper.dia -c /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m -o /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostWrapper.o36"A30C731D-ED88-4D2E-A6B0-4649071804E7-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417463204.377303
+e417463204.806975
+r1
+xCompileC
+xbuild/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.o
+x/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/AIR/FlashRuntimeExtensions.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost/Chartboost.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m225"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.o [1mChartboostAIR/ChartboostAIR.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler2cf560a4fbe1b841^a296cea4fbe1b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m0000000000000000^4374"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.o [1mChartboostAIR/ChartboostAIR.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-generated-files.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-own-target-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-all-target-headers.hmap -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-project-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/bin/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources/armv7s -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources -F/Users/brianhansen/Documents/SDK/air/native_ios/bin -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djbjdfjixddyjaewpuwftjlxcuag/ChartboostAIR-Prefix.pch -MMD -MT dependencies -MF /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.d --serialize-diagnostics /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.dia -c /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostAIR.m -o /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.o36"E5D890FF-B36B-46D8-8F15-AB8278154161-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CCompileC build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostWrapper.o /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417463204.377229
+e417463204.838671
+r1
+xCompileC
+xbuild/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostWrapper.o
+x/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m
+d/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost/Chartboost.h
+d/Users/brianhansen/Documents/SDK/air/native_ios/AIR/FlashRuntimeExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m233"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostWrapper.o [1mChartboostAIR/ChartboostWrapper.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerf4f960a4fbe1b841^68b3d6a4fbe1b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m0000000000000000^4398"[1mCompileC[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostWrapper.o [1mChartboostAIR/ChartboostWrapper.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-generated-files.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-own-target-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-all-target-headers.hmap -iquote /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/ChartboostAIR-project-headers.hmap -I/Users/brianhansen/Documents/SDK/air/native_ios/bin/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources/armv7s -I/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/DerivedSources -F/Users/brianhansen/Documents/SDK/air/native_ios/bin -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djbjdfjixddyjaewpuwftjlxcuag/ChartboostAIR-Prefix.pch -MMD -MT dependencies -MF /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostWrapper.d --serialize-diagnostics /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostWrapper.dia -c /Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR/ChartboostWrapper.m -o /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostWrapper.o36"0FEA0BE7-3D5D-457C-8D40-746666B55E4C-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CCreateUniversalBinary /Users/brianhansen/Documents/SDK/air/native_ios/bin/libChartboostAIR.a normal armv7\ armv7s\ arm64
+s417463205.153843
+e417463205.449463
+r1
+xCreateUniversalBinary
+x/Users/brianhansen/Documents/SDK/air/native_ios/bin/libChartboostAIR.a
+xnormal
+xarmv7 armv7s arm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Create universal binary /Users/brianhansen/Documents/SDK/air/native_ios/bin/libChartboostAIR.a88"[1mCreateUniversalBinary[0m [1mbin/libChartboostAIR.a[0m normal armv7\ armv7s\ arm648f8a27a5fbe1b841^1e1573a5fbe1b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/brianhansen/Documents/SDK/air/native_ios/bin/libChartboostAIR.a0038308cdcffdf42^1531"[1mCreateUniversalBinary[0m [1mbin/libChartboostAIR.a[0m normal armv7\ armv7s\ arm64    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    libtool -static /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/libChartboostAIR.a /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/libChartboostAIR.a /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/libChartboostAIR.a -o /Users/brianhansen/Documents/SDK/air/native_ios/bin/libChartboostAIR.a36"D0CD63AE-FE6D-46D1-B70A-EA2414CAB4DF-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CLibtool /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/libChartboostAIR.a normal arm64
+s417463205.082508
+e417463205.145517
+r1
+xLibtool
+x/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/libChartboostAIR.a
+xnormal
+xarm64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"[1mLibtool[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/libChartboostAIR.a normal arm64131"[1mLibtool[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/libChartboostAIR.a normal arm64e14315a5fbe1b841^314125a5fbe1b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--2018"[1mLibtool[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/libChartboostAIR.a normal arm64    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/brianhansen/Documents/SDK/air/native_ios/bin -L/Users/brianhansen/Documents/SDK/air/native_ios/Air -L/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost -L/Users/brianhansen/Documents/SDK/air/native_ios/iOS -L/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR -L/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost -filelist /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/ChartboostAIR.LinkFileList -ObjC -lChartboost -framework Foundation -o /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/arm64/libChartboostAIR.a36"639B90E3-8CAE-4E84-AD52-530819C4E03A-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CLibtool /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/libChartboostAIR.a normal armv7
+s417463205.082512
+e417463205.138590
+r1
+xLibtool
+x/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/libChartboostAIR.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"[1mLibtool[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/libChartboostAIR.a normal armv7131"[1mLibtool[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/libChartboostAIR.a normal armv70b4615a5fbe1b841^357c23a5fbe1b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--2018"[1mLibtool[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/libChartboostAIR.a normal armv7    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/brianhansen/Documents/SDK/air/native_ios/bin -L/Users/brianhansen/Documents/SDK/air/native_ios/Air -L/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost -L/Users/brianhansen/Documents/SDK/air/native_ios/iOS -L/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR -L/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost -filelist /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/ChartboostAIR.LinkFileList -ObjC -lChartboost -framework Foundation -o /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7/libChartboostAIR.a36"90BAA90A-A5BF-49F5-A254-8C3BC7B2F005-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CLibtool /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/libChartboostAIR.a normal armv7s
+s417463205.082531
+e417463205.141145
+r1
+xLibtool
+x/Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/libChartboostAIR.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"[1mLibtool[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/libChartboostAIR.a normal armv7s133"[1mLibtool[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/libChartboostAIR.a normal armv7s7b4b15a5fbe1b841^362224a5fbe1b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--2023"[1mLibtool[0m build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/libChartboostAIR.a normal armv7s    cd /Users/brianhansen/Documents/SDK/air/native_ios    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/var/www/server/current/scripts/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/brianhansen/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/brianhansen/.rvm/bin:/Users/kenneth/.gem/ruby/1.8/bin:/usr/local/php/bin:/opt/local/lib/mysql5/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/apache2/bin:/Users/brianhansen/Documents/Scripts/bash:/Users/brianhansen/Downloads/!Archived/adt-bundle-mac-x86_64/sdk/platform-tools/:/usr/class/cs143/cool/bin:/Users/brianhansen/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/brianhansen/.rvm/bin:/Users/brianhansen/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/brianhansen/Documents/SDK/air/native_ios/bin -L/Users/brianhansen/Documents/SDK/air/native_ios/Air -L/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost -L/Users/brianhansen/Documents/SDK/air/native_ios/iOS -L/Users/brianhansen/Documents/SDK/air/native_ios/ChartboostAIR -L/Users/brianhansen/Documents/SDK/air/native_ios/Chartboost -filelist /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/ChartboostAIR.LinkFileList -ObjC -lChartboost -framework Foundation -o /Users/brianhansen/Documents/SDK/air/native_ios/build/ChartboostAIR.build/Release-iphoneos/ChartboostAIR.build/Objects-normal/armv7s/libChartboostAIR.a36"E1DEC322-B056-46ED-9F5E-21DA7A3FD3CB-
+b0A3E90E1-2DE8-4CB1-BC06-BB359B19F045
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-apacvhkjsdcygbbxeiwnmvwvlkbw/ChartboostAIR-Prefix.pch.pch ChartboostAIR/ChartboostAIR-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djbjdfjixddyjaewpuwftjlxcuag/ChartboostAIR-Prefix.pch.pch ChartboostAIR/ChartboostAIR-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ChartboostAIR-Prefix-djqoawjjelvhhkennqrkrsuwzwfj/ChartboostAIR-Prefix.pch.pch ChartboostAIR/ChartboostAIR-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
